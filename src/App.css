@@ -1,0 +1,82 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.Nav{
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px 10px 10px 10px;
+  margin: -42px 10px -34px 98px ;  
+}
+.headline{
+  display: flex;
+  justify-content: space-between;
+ 
+}
+.port{
+  margin-top: 20px ;
+  height: 70vh;
+  border-radius: 170px;
+}
+
+.Box{
+  display: flex;
+  
+  justify-content: space-between;
+
+}
+.box1{
+  border: 2px solid red;
+  width: 30%;
+  text-align: center;
+}
+.box2{
+  border: 2px solid red;
+  width: 30%;
+}
+.box3{
+  border: 2px solid red;
+  width: 30%;
+}
+
+.project1{
+  border: 2px solid red;
+  width: 50vh;
+ 
+  
+}
+.project2{
+  border: 2px solid red;
+  width: 50vh;
+ 
+  
+}
+.project3{
+  border: 2px solid red;
+  width: 50vh;
+ 
+  
+}
+.track1{
+  position: relative;
+  width: 100%;
+  height: 10%;
+}
+.track2{
+  position: relative;
+  width: 100%;
+  height: 10%;
+}
+.track3{
+  position: relative;
+  width: 100%;
+  height: 10%;
+}
+
+.section{
+  display: flex;
+  justify-content: space-between;
+}
